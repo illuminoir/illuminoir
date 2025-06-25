@@ -26,6 +26,7 @@ Throughout my studies and work experiences I have grown to enjoy backend develop
 
 - travel_helper: a project fueled by my girlfriend and I's love for travelling. Cheaper airlines and their luggage restriction create a huge friction point with weight, I'm working on designing a simple tool that would allow us to list our belongings and then shaping up a luggage that doesn't exceed the given weight
 - Create cheatsheets for the Terraform and AWS knowledge I've acquired through the certifications.
+- Ukrainian 🇺🇦
 
 ### I'm currently learning
 
