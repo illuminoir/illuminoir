@@ -31,7 +31,7 @@ Throughout my studies and work experiences I have grown to enjoy backend develop
 
 ### I'm currently learning
 
-- GraphQL
+- Software Architecture and Design
 - Vue.Js, Vite, Next.Js
 - Ukrainian 🇺🇦
 
