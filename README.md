@@ -26,8 +26,8 @@ Throughout my studies and work experiences I have grown to enjoy backend develop
 
 - bird_connect: a mobile and watchOS app designed to help you identify birds in the wild both online and offline, and share your findings with fellow bird enthusiasts.
 - travel_helper: a project fueled by my girlfriend and I's love for travelling. Cheaper airlines and their luggage restriction create a huge friction point with weight, I'm working on designing a simple tool that would allow us to list our belongings and then shaping up a luggage that doesn't exceed the given weight
-- bird_finder_pi: grounding my mental health through bird watching - an app that captures bird sounds near me and notifies me when they are nearby, to watch them enjoy life :) 
-- telegram_bot_reminder: organising my life through reminders since I'm very active on telegram
+- bird_finder_pi: grounding my mental health through bird watching - an app that captures bird sounds near me and notifies me when they are nearby, to watch them enjoy life. [Here is a demo](https://github.com/illuminoir/bird-finder-demo)
+- telegram_bot_reminder: organising my life through reminders since I'm very socially active on telegram
 
 ### I'm currently learning
 
